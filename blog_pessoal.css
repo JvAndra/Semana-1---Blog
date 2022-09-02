@@ -1,0 +1,91 @@
+.profileImg {
+    width: 200px;
+    height:200px;
+    border-radius: 50%;
+    margin-top: -8%;
+    margin-left: 61%;
+    position: absolute;
+    display: flex;
+    text-align: center;
+    justify-content: center
+}
+
+.border {
+    width: 200px;
+    height: 200px;
+    border-radius: 60%;
+    border: 28px solid #1E73DE;
+    position: absolute;
+    padding: -4px;
+    border-radius: 50%;
+    margin-top: -28px;
+    margin-left: -9px;
+}
+
+.ficha {
+   width: 700px;
+   height: 125px;
+   border-radius: 10px 20px 30px 40px;
+   background: #1E73DE;
+   margin-left: 25%;
+   margin-top: 10%;
+   text-align: center;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   color: #020408;
+}
+.cards {
+   width: 500px;
+   height: 500px;
+   padding: 10px;
+   border-radius: 10px;
+   background: #1E73DE;
+   margin-left: 20%;
+   margin-top: 7%;
+   text-align:left;
+   justify-content: center;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   color: #020408;
+   box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+}
+.cards1 {
+    width: 500px;
+    height: 500px;
+    padding: 10px;
+    border-radius: 15px;
+    background: #1E73DE;
+    margin-left: 50%;
+    margin-top: -520px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:left;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #020408;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+ }
+ .cards2 {
+    width: 1070px;
+    height: 500px;
+    padding: 10px;
+    border-radius: 15px;
+    background: #1E73DE;
+    margin-left: 20%;
+    margin-top: 100px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:left;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #020408;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+ }
+ 
+ 
+
+body {
+  position: relative;
+  background-image: url('img_girl.jpg');
+  background-attachment: fixed;
+}
+
+
